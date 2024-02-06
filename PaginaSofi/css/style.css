@@ -1,0 +1,38 @@
+.maincontent{
+    font-family: "Indie Flower", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    font-size: xx-large;
+    line-height: 1.5;
+}
+.mapita{
+    font-family: "Indie Flower", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    font-size: xx-large;
+    line-height: 1.5;
+}
+
+h1{
+    font-size: 4cm;
+    font-weight: 500;
+    font-weight: bolder;
+}
+h2{
+    font-weight: bolder;
+}
+h3{
+    font-size: 4cm;
+    font-weight: 500;
+    font-weight: bolder;
+}
+@media screen {
+    
+h1{
+    text-align: center;
+    width: auto;
+}
+
+}
